@@ -1,9 +1,6 @@
 {
   "ver": 1.0,
   "se": {
-    "1": {
-      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou_DIY2/main/godDai/10.mp3"
-    },
     "6": {
       "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou_DIY2/main/godDai/6.wav"
     },
@@ -51,12 +48,6 @@
     },
     "36": {
       "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou_DIY2/main/godDai/36.mp3"
-    },
-    "40": {
-      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou_DIY2/main/godDai/10.mp3"
-    },
-    "41": {
-      "url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou_DIY2/main/godDai/10.mp3"
     }
   }
 }
